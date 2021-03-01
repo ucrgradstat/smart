@@ -1,0 +1,23 @@
+name: "smart"
+title: "SMART"
+base_url: https://ucrgradstat.github.io/smart
+output_dir: "docs"
+navbar:
+  left: 
+    - text: "SMART"
+      href: index.html
+    
+  right:
+    - text: "About"
+      href: about.html
+    - text: "For Undergraduate Students"
+      href: undergrad.html
+    - text: "For Graduate Students"
+      href: grad.html
+    - text: "Projects"
+      href: projects.html
+
+output:
+  html_document:
+    theme: cerulean
+    css: styles.css

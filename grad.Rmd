@@ -1,0 +1,20 @@
+---
+title: "For Graduate Students"
+site: html_document
+---
+
+## How to participate?
+
+Contact the Statistics GSA to participate.
+
+## Expectations
+
+- Create a project that an undergraduate student can be completed within 6 weeks.
+  - Set pre-requisite
+  - Gather teaching materials
+
+- Mentor an undergraduate student for the duration of the quarter.
+
+- Meet with an undergraduate student for 1 hour a week.
+
+- Monitor student progress and adjust the project as needed.

@@ -1,0 +1,14 @@
+---
+title: "About"
+output: html_document
+---
+
+## Mission
+
+The mission of the SMART program is to provide undergradute students with the opportunity to conduct a statistical project under the supervision of graduate students from UC Riverside's Statistics Department.
+
+## Goals
+
+- Provide undergraduate students the opportunity to conduct statistical projects.
+- Provide graduate students with the opportunity to mentor students.
+- Provide graduate students with the opportunity to develop a project.

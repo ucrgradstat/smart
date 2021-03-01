@@ -1,0 +1,9 @@
+---
+title: |
+ | **S**tatistical **M**entoring
+ | **A**pplication $\cup$ **R**esearch $\cup$ **T**echnology
+output: html_document
+---
+
+## Projects
+
