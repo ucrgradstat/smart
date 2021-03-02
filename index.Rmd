@@ -5,5 +5,12 @@ title: |
 output: html_document
 ---
 
-## Projects
+## What is the SMART Program?
 
+The SMART program a quarter long program where undergraduate students have an opportunity to conduct a statistical project under the supervision of a graduate student from UC Riverside's Statistics Department.
+
+## Goals
+
+- Provide undergraduate students the opportunity to conduct statistical projects.
+- Provide graduate students with the opportunity to mentor students.
+- Provide graduate students with the opportunity to develop a project.

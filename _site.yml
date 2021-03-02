@@ -8,8 +8,6 @@ navbar:
       href: index.html
     
   right:
-    - text: "About"
-      href: about.html
     - text: "For Undergraduate Students"
       href: undergrad.html
     - text: "For Graduate Students"
