@@ -5,7 +5,7 @@ site: html_document
 
 ## Current Projects
 
-### Learnr and Longitudinal Data Analysis
+### Longitudinal Data Analysis
 
 ### Tidyverse
 
@@ -13,7 +13,7 @@ site: html_document
 
 ### Time-Series Analysis
 
-### Clustering Analysis
+### Cluster Analysis
 
 
 
