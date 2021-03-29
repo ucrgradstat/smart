@@ -5,5 +5,15 @@ site: html_document
 
 ## Current Projects
 
-## Previous Projects
+### Learnr and Longitudinal Data Analysis
+
+### Tidyverse
+
+### Survival Analysis
+
+### Time-Series Analysis
+
+### Clustering Analysis
+
+
 

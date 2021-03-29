@@ -5,7 +5,7 @@ site: html_document
 
 ## How to apply?
 
-[Application](https://docs.google.com/forms/d/e/1FAIpQLSdt0bPwC_0R6JEfow6ugIhAnPxr_xzGHivGuiDHz4OBalo2XA/viewform?usp=sf_link)
+Applications will open before the start of the quarter.
 
 ## Expectations
 
@@ -17,6 +17,3 @@ site: html_document
 
 - Develop a presentation for the end of the quarter.
 
-## Admission Criteria
-
-Coming soon ...
