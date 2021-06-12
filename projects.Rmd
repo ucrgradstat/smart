@@ -3,17 +3,49 @@ title: "Projects"
 site: html_document
 ---
 
-## Current Projects
-
-### Longitudinal Data Analysis
+## Spring 2021 Projects
 
 ### Tidyverse
 
+Project: Data Visualization and Analysis of FANG Companiesusing TidyVerse
+
+Fellow: Nishath Fatima
+
+Mentor: Kim Phan
+
+
 ### Survival Analysis
+
+Project: Survival Analysis SMART Project
+
+Fellow: Osvaldo Ramirez
+
+Mentor: Benjamin "Jeff" Ellis
+
 
 ### Time-Series Analysis
 
+Project: Time Series Analysis with Causal Discovery
+
+Fellow: Emily Mai
+
+Mentor: Brian Tran
+
+
 ### Cluster Analysis
 
+Project: CLUSTERING ANALYSIS: 2020 California SAT Scores
 
+Fellow: Emily Ouyang
+
+Mentor: Noe Vidales
+
+
+### Longitudinal Analysis
+
+Project: Longitudinal Data Analysis and learnr tutorials
+
+Fellow: Christian Dueñas
+
+Mentor: Isaac Quintanilla Salinas
 
