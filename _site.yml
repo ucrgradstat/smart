@@ -10,6 +10,8 @@ navbar:
   right:
     - text: "For Undergraduate Students"
       href: undergrad.html
+    - text: "FAQ for Undergraduate Students"
+      href: FAQ_UG.html
     - text: "For Graduate Students"
       href: grad.html
     - text: "Projects"
